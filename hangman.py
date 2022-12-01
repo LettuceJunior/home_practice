@@ -1,7 +1,7 @@
 # Problem Set 2, hangman.py
 # Name: Anna Latuil
-# Collaborators: --
-# Time spent: A LOT
+# Collaborators: Max Havriluk
+# Time spent: 3 nights
 
 # Hangman Game
 # -----------------------------------
