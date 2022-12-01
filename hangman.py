@@ -128,7 +128,7 @@ def hangman(secret_word):
 
     guesses = 6
     warnings = 3
-    secret_word = 'nigga'
+    #secret_word = 'text'
     letters_guessed = []
     res = ''
     print ("Nice to see you here! It's time to play :)")
@@ -286,7 +286,7 @@ def hangman_with_hints(secret_word):
     '''
     guesses = 6
     warnings = 3
-    secret_word = 'text'
+    #secret_word = 'text'
     letters_guessed = []
     print ("Nice to see you here! It's time to play :)")
     print ("My word contains", len(secret_word), "letters. Try to guess)")
